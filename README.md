@@ -14,7 +14,7 @@ This project tests AgentCore's policy capabilities by creating a practical examp
 ## 📁 Project Structure
 
 ```
-agentcore-policy-quickstart/
+agentcore-policy/
 ├── setup_policy.py     # Main setup script
 ├── test_policy.py      # Policy testing script
 ├── cleanup_policy.py   # Resource cleanup script
@@ -68,7 +68,7 @@ Saves all the configuration details (gateway URL, policy IDs, credentials, etc.)
 Run the setup script to create all resources:
 
 ```bash
-cd agentcore-policy-quickstart
+cd agentcore-policy
 python setup_policy.py
 ```
 
