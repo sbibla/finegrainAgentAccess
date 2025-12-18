@@ -1,0 +1,18 @@
+{
+  "gateway_url": "https://testgateway59256023-kowblvjg3x.gateway.bedrock-agentcore.us-west-2.amazonaws.com/mcp",
+  "gateway_id": "testgateway59256023-kowblvjg3x",
+  "gateway_arn": "arn:aws:bedrock-agentcore:us-west-2:564105018329:gateway/testgateway59256023-kowblvjg3x",
+  "policy_engine_id": "RefundPolicyEngine-n1a4uk36eo",
+  "policy_engine_arn": "arn:aws:bedrock-agentcore:us-west-2:564105018329:policy-engine/RefundPolicyEngine-n1a4uk36eo",
+  "policy_id": "refund_limit_policy-p61_39j2ka",
+  "region": "us-west-2",
+  "client_info": {
+    "client_id": "5irdp80n8i0pluvpr44eor8mhu",
+    "client_secret": "3u7bjdsj09t38d27ld06rsvs6mrtkp7bfertpcdd2f8su0lbdqa",
+    "user_pool_id": "us-west-2_Nzb6BonMJ",
+    "token_endpoint": "https://agentcore-e3bbc03e.auth.us-west-2.amazoncognito.com/oauth2/token",
+    "scope": "PolicyGateway/invoke",
+    "domain_prefix": "agentcore-e3bbc03e"
+  },
+  "refund_limit": 1000
+}
